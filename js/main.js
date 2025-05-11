@@ -40,6 +40,8 @@
     });
 
 
+
+
     // Modal Video
     var $videoSrc;
     $('.btn-play').click(function () {
@@ -115,6 +117,20 @@
         }
     });
 
-    
+    const currentPage = window.location.pathname.split("/").pop(); // e.g., "about.php"
+
+    $(".navbar-nav a, .dropdown-menu a").each(function () {
+        const linkPage = $(this).attr("href");
+        if (linkPage === currentPage || (currentPage === "" && linkPage === "index.php")) {
+            $(this).addClass("active");
+
+            if ($(this).closest(".dropdown-menu").length) {
+            $(this).closest(".nav-item.dropdown").find(".nav-link.dropdown-toggle").addClass("active");
+            }
+        } else {
+            $(this).removeClass("active");
+        }
+    });
+
 })(jQuery);
 

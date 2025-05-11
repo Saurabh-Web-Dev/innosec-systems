@@ -3,13 +3,13 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Industro - Industrial HTML Template</title>
+    <title>INNOSEC - SYSTEMS</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
 
     <!-- Favicon -->
-    <link href="img/favicon.ico" rel="icon">
+    <link href="./img/c_logo.png" rel="icon">
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -76,9 +76,23 @@
                 <a href="about.php" class="nav-item nav-link">About</a>
                 <a href="service.php" class="nav-item nav-link">Services</a>
                 <div class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Products</a>
                     <div class="dropdown-menu bg-light m-0">
-                        <a href="project.php" class="dropdown-item">Projects</a>
+                        <a href="project.php" class="dropdown-item">Fire Alarm System</a>
+                        <a href="project.php" class="dropdown-item">Wireless Fire Alarm System</a>
+                        <a href="project.php" class="dropdown-item">Wireless Fire Alarm</a>
+                        <a href="project.php" class="dropdown-item">Fire Alarm AMC</a>
+                        <a href="project.php" class="dropdown-item">Wireless Smoke Detector</a>
+                        <a href="project.php" class="dropdown-item">Rf Bell Wireless Smoke Detector</a>
+                        <a href="project.php" class="dropdown-item">Smoke Detector AMC</a>
+                        <a href="project.php" class="dropdown-item">Conventional Fire Alarm System</a>
+                        <a href="project.php" class="dropdown-item">Fire Detection Alarm System</a>
+                        <a href="project.php" class="dropdown-item">Siemens Smoke Detector</a>
+                        <a href="project.php" class="dropdown-item">Morley Fire Panel</a>
+                        <a href="project.php" class="dropdown-item">Morley Smoke Detector</a>
+                        <a href="project.php" class="dropdown-item">Morley Smoke Detector</a>
+                        <a href="project.php" class="dropdown-item">Addressable Smoke Detector</a>
+                        <a href="project.php" class="dropdown-item">Fire Alarm Installation Contractor</a>
                         <a href="feature.php" class="dropdown-item">Features</a>
                         <a href="team.php" class="dropdown-item">Our Team</a>
                         <a href="testimonial.php" class="dropdown-item">Testimonial</a>

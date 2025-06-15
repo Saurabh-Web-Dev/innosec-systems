@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: #FF5E14;
+    --primary: #9cc235;
     --secondary: #5F656F;
     --light: #F5F5F5;
     --dark: #02245B;
@@ -698,4 +698,25 @@ h6,
 .copyright {
     color: #B0B9AE;
     border-top: 1px solid rgba(255, 255, 255, .1);
+}
+
+.whatsapp-button {
+  display: inline-block; /* Or flex, grid, etc. for positioning */
+  background-color: #25d366; /* WhatsApp green */
+  color: #fff;
+  padding: 10px 20px;
+  text-decoration: none; /* Remove underline */
+  border-radius: 5px; /* Rounded corners */
+}
+
+.whatsapp-button img {
+  width: 25px; /* Adjust size as needed */
+  height: 25px;
+  vertical-align: middle; /* Align image with text */
+  margin-right: 10px; /* Add some space between icon and text */
+}
+
+/* Optional: Hover effects */
+.whatsapp-button:hover {
+  opacity: 0.8;
 }

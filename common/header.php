@@ -54,7 +54,7 @@
             <div class="col-lg-6 text-end">
                 <div class="h-100 topbar-right d-inline-flex align-items-center text-white py-2 px-5">
                     <span class="fs-5 fw-bold me-2"><i class="fa fa-phone-alt me-2"></i>Call Us:</span>
-                    <span class="fs-5 fw-bold">+91 9711408978</span>
+                    <span class="fs-5 fw-bold"><a href="tel:+919711408978">+91 9711408978</a></span>
                 </div>
             </div>
         </div>
@@ -66,6 +66,7 @@
     <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top py-0 pe-5">
         <a href="index.php" class="navbar-brand ps-5 me-0">
            <img src="./img/c_logo.png" alt="c_logo" style="width: 100%;max-height: -webkit-fill-available;">
+           <i class="bold" style="color:antiquewhite">INNOSEC SYSTEMS</i>
         </a>
         <button type="button" class="navbar-toggler me-0" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
@@ -94,7 +95,7 @@
                         <a href="project.php" class="dropdown-item">Addressable Smoke Detector</a>
                         <a href="project.php" class="dropdown-item">Fire Alarm Installation Contractor</a>
                         <a href="feature.php" class="dropdown-item">Features</a>
-                        <a href="team.php" class="dropdown-item">Our Team</a>
+                        <a href="team.php"    class="dropdown-item">Our Team</a>
                         <a href="testimonial.php" class="dropdown-item">Testimonial</a>
                         <a href="404.php" class="dropdown-item">404 Page</a>
                     </div>

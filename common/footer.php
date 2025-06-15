@@ -5,9 +5,9 @@
             <div class="row g-5">
                 <div class="col-lg-3 col-md-6">
                     <h5 class="text-white mb-4">Our Office</h5>
-                    <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>123 Street, New York, USA</p>
-                    <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+012 345 67890</p>
-                    <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@example.com</p>
+                    <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>G-147 Molarband Extension,Badarpur,New Delhi. 110044</p>
+                    <p class="mb-2"><i class="fa fa-phone-alt me-3"></i><a href="tel:+919711408978">+91 9711408978</a></p>
+                    <p class="mb-2"><i class="fa fa-envelope me-3"></i>innosecsystems@gmail.com</p>
                     <div class="d-flex pt-3">
                         <a class="btn btn-square btn-primary rounded-circle me-2" href=""><i class="fab fa-twitter"></i></a>
                         <a class="btn btn-square btn-primary rounded-circle me-2" href=""><i class="fab fa-facebook-f"></i></a>
@@ -26,9 +26,9 @@
                 <div class="col-lg-3 col-md-6">
                     <h5 class="text-white mb-4">Business Hours</h5>
                     <p class="mb-1">Monday - Friday</p>
-                    <h6 class="text-light">09:00 am - 07:00 pm</h6>
+                    <h6 class="text-light">09:30 am - 06:00 pm</h6>
                     <p class="mb-1">Saturday</p>
-                    <h6 class="text-light">09:00 am - 12:00 pm</h6>
+                    <h6 class="text-light">10:30 am - 05:00 pm</h6>
                     <p class="mb-1">Sunday</p>
                     <h6 class="text-light">Closed</h6>
                 </div>
@@ -44,14 +44,18 @@
         </div>
     </div>
     <!-- Footer End -->
-
+    <a class="btn btn-lg btn-primary btn-lg-square rounded-circle back-to-top" href="https://wa.me/+919711408978">
+        <i class="fab fa-whatsapp"></i>
+    </a>
+    <!-- <a href="https://wa.me/YOUR_PHONE_NUMBER" class="whatsapp-button">
+        <i class="fa fa-whatsapp" aria-hidden="true"></i>
+    </a> -->
 
     <!-- Copyright Start -->
     <div class="container-fluid copyright bg-dark py-4">
         <div class="container text-center">
-            <p class="mb-2">Copyright &copy; <a class="fw-semi-bold" href="#">Your Site Name</a>, All Right Reserved.</p>
-            <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
-            <p class="mb-0">Designed By <a class="fw-semi-bold" href="https://htmlcodex.com">HTML Codex</a></p>
+            <p class="mb-2">Copyright &copy; <a class="fw-semi-bold" href="#">INNOSEC SYSTEMS</a>, All Right Reserved.</p>
+            <p class="mb-0">Designed By <a class="fw-semi-bold" href="https://www.linkedin.com/in/saurabh-singh-b456bb1b7">Saurabh Singh</a></p>
         </div>
     </div>
     <!-- Copyright End -->
@@ -72,6 +76,12 @@
 
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
+    <!-- <script>
+        $(document).ready(function(){
+            $('#spinner').removeClass('show');
+            $('#spinner').addClass('hide');
+        })
+    </script> -->
 </body>
 
 </html>

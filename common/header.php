@@ -66,7 +66,7 @@
     <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top py-0 pe-5">
         <a href="index.php" class="navbar-brand ps-5 me-0">
            <img src="./img/c_logo.png" alt="c_logo" style="width: 100%;max-height: -webkit-fill-available;">
-           <i class="bold" style="color:antiquewhite">INNOSEC SYSTEMS</i>
+           <!-- <i class="bold" style="color:antiquewhite">INNOSEC SYSTEMS</i> -->
         </a>
         <button type="button" class="navbar-toggler me-0" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>

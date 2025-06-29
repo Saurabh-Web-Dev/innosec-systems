@@ -54,7 +54,6 @@
             </div>
         </div>
     </div>
-    
 
      <!-- About Start -->
   <?php include "aboutus.php"?>

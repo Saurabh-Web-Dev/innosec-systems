@@ -26,7 +26,8 @@
                         </div>
                         <h4 class="mb-3">Phone Number</h4>
                         <p class="mb-2">+91 9711408978</p>
-                        <!-- <p class="mb-4">+012 345 67890</p> -->
+                        <p class="mb-4">+91 8932982629</p>
+                        <p class="mb-4">+91 1292491766</p>
                         <a class="btn btn-primary px-4" href="tel:+919711408978">Call Now <i class="fa fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
@@ -47,7 +48,7 @@
                             <i class="fa fa-map-marker-alt fa-2x text-primary"></i>
                         </div>
                         <h4 class="mb-3">Office Address</h4>
-                        <p class="mb-2">Innosec Systems, G-50/5,street no.2A,40 feet Road., Molarband Extn .Badarpur New Delhi., New Delhi, 110044</p>
+                        <p class="mb-2">Innosec Systems, Office No.3, P.P Complex,40 feet Road ,Molarband Extension Badarpur South Delhi, Delhi INDIA. 110044</p>
                         <a class="btn btn-primary px-4" href="https://maps.app.goo.gl/teyMMrpzRUACzTAW7" target="blank">Direction <i class="fa fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
@@ -73,7 +74,9 @@
                                 </div>
                                 <div class="ms-3">
                                     <h6>Call Us</h6>
-                                    <span>+91 9711408978</span>
+                                    <p class="mb-1">+91 9711408978</p>
+                                    <p class="mb-1">+91 8932982629</p>
+                                    <p class="mb-1">+91 1292491766</p>
                                 </div>
                             </div>
                         </div>

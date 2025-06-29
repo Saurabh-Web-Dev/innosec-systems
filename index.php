@@ -45,7 +45,6 @@
         </div>
     </div>
     <!-- Carousel End -->
-    
 
     <!-- About Start -->
   <?php include "aboutus.php"?>
@@ -79,9 +78,6 @@
     <!-- Features Start -->
   <?php include "Features.php"?>
     <!-- Features End -->
-
-    
- 
 
 
     <!-- Project Start -->

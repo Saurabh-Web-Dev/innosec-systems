@@ -25,9 +25,9 @@
                             <i class="fa fa-phone-alt fa-2x text-primary"></i>
                         </div>
                         <h4 class="mb-3">Phone Number</h4>
-                        <p class="mb-2">+012 345 67890</p>
-                        <p class="mb-4">+012 345 67890</p>
-                        <a class="btn btn-primary px-4" href="tel:+0123456789">Call Now <i class="fa fa-arrow-right ms-2"></i></a>
+                        <p class="mb-2">+91 9711408978</p>
+                        <!-- <p class="mb-4">+012 345 67890</p> -->
+                        <a class="btn btn-primary px-4" href="tel:+919711408978">Call Now <i class="fa fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
@@ -36,9 +36,9 @@
                             <i class="fa fa-envelope-open fa-2x text-primary"></i>
                         </div>
                         <h4 class="mb-3">Email Address</h4>
-                        <p class="mb-2">info@example.com</p>
-                        <p class="mb-4">support@example.com</p>
-                        <a class="btn btn-primary px-4" href="mailto:info@example.com">Email Now <i class="fa fa-arrow-right ms-2"></i></a>
+                        <p class="mb-2">innosecsystems@gmail.com</p>
+                        <!-- <p class="mb-4">support@example.com</p> -->
+                        <a class="btn btn-primary px-4" href="mailto:innosecsystems@gmail.com">Email Now <i class="fa fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">

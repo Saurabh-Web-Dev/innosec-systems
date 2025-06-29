@@ -47,16 +47,15 @@
                             <i class="fa fa-map-marker-alt fa-2x text-primary"></i>
                         </div>
                         <h4 class="mb-3">Office Address</h4>
-                        <p class="mb-2">+012 345 67890</p>
-                        <p class="mb-4">+012 345 67890</p>
-                        <a class="btn btn-primary px-4" href="https://goo.gl/maps/FsznshxgnULBGgkN9" target="blank">Direction <i class="fa fa-arrow-right ms-2"></i></a>
+                        <p class="mb-2">Innosec Systems, G-50/5,street no.2A,40 feet Road., Molarband Extn .Badarpur New Delhi., New Delhi, 110044</p>
+                        <a class="btn btn-primary px-4" href="https://maps.app.goo.gl/teyMMrpzRUACzTAW7" target="blank">Direction <i class="fa fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>
             <div class="row mb-5">
                 <div class="col-12 wow fadeInUp" data-wow-delay="0.1s">
                     <iframe class="w-100"
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3001156.4288297426!2d-78.01371936852176!3d42.72876761954724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ccc4bf0f123a5a9%3A0xddcfc6c1de189567!2sNew%20York%2C%20USA!5e0!3m2!1sen!2sbd!4v1603794290143!5m2!1sen!2sbd"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3506.671200199379!2d77.30349467428739!3d28.489447090566177!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce72173d4a1c7%3A0xd939707b8c42ca33!2sInnosec%20Systems!5e0!3m2!1sen!2sin!4v1751184695547!5m2!1sen!2sin"
                     frameborder="0" style="min-height: 450px; border:0;" allowfullscreen="" aria-hidden="false"
                     tabindex="0"></iframe>
                 </div>
@@ -65,7 +64,7 @@
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                     <p class="fw-medium text-uppercase text-primary mb-2">Contact Us</p>
                     <h1 class="display-5 mb-4">If You Have Any Queries, Please Feel Free To Contact Us</h1>
-                    <p class="mb-4">The contact form is currently inactive. Get a functional and working contact form with Ajax & PHP in a few minutes. Just copy and paste the files, add a little code and you're done. <a href="https://htmlcodex.com/contact-form">Download Now</a>.</p>
+                    <p class="mb-4"></p>
                     <div class="row g-4">
                         <div class="col-6">
                             <div class="d-flex">
@@ -74,7 +73,7 @@
                                 </div>
                                 <div class="ms-3">
                                     <h6>Call Us</h6>
-                                    <span>+012 345 67890</span>
+                                    <span>+91 9711408978</span>
                                 </div>
                             </div>
                         </div>
@@ -85,7 +84,7 @@
                                 </div>
                                 <div class="ms-3">
                                     <h6>Mail Us</h6>
-                                    <span>info@example.com</span>
+                                    <span>innosecsystems@gmail.com</span>
                                 </div>
                             </div>
                         </div>

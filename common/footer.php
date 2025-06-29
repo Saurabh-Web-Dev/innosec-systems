@@ -55,19 +55,16 @@
         <div class="modal-dialog">
             <div class="modal-content rounded-0">
                 <div class="modal-header">
-                    <h3 class="modal-title" id="exampleModalLabel">Youtube Video</h3>
+                    <h3 class="modal-title" id="exampleModalLabel">Video</h3>
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
-                    <!-- 16:9 aspect ratio -->
+                <!-- 16:9 aspect ratio -->
                     <div class="ratio ratio-16x9">
-                        <iframe class="embed-responsive-item"
-                            src="https://www.youtube.com/embed/wLvyC-l1uzU"
-                            id="video"
-                            allowfullscreen
-                            allowscriptaccess="always"
-                            allow="autoplay">
-                        </iframe>
+                        <video id="video" class="embed-responsive-item" controls autoplay>
+                            <source src="video/alarm.mp4" type="video/mp4">
+                            Your browser does not support the video tag.
+                        </video>
                     </div>
                 </div>
             </div>

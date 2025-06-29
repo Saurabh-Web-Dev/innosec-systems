@@ -34,7 +34,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h5 class="text-white mb-4">Newsletter</h5>
-                    <p>Dolor amet sit justo amet elitr clita ipsum elitr est.</p>
+                    <p>Customer satisfaction is the highest priority. The company will make every effort to deliver the highest quality products and services in business.</p>
                     <div class="position-relative w-100">
                         <input class="form-control bg-transparent w-100 py-3 ps-4 pe-5" type="text" placeholder="Your email">
                         <button type="button" class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2">SignUp</button>
@@ -61,7 +61,7 @@
                 <div class="modal-body">
                 <!-- 16:9 aspect ratio -->
                     <div class="ratio ratio-16x9">
-                        <video id="video" class="embed-responsive-item" controls autoplay>
+                        <video id="video" class="embed-responsive-item" controls>
                             <source src="video/alarm.mp4" type="video/mp4">
                             Your browser does not support the video tag.
                         </video>

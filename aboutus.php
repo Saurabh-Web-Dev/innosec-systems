@@ -14,7 +14,7 @@
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
                     <p class="fw-medium text-uppercase text-primary mb-2">About Us</p>
                     <h1 class="display-5 mb-4">Market Leader And Growing Engineering Organization</h1>
-                    <p class="mb-4">We at Innosec Systems shall be a market leader and growing engineering organization dedicated to excellence through quality, creating value for customers, employees through innovation technology and operational expertise. We are a Certified Professionals driven company at our core with an overriding commitment to quality and our primary measures of success are customers’ satisfaction and shareholders value.</p>
+                    <p class="mb-4 text-justify">We at Innosec Systems shall be a market leader and growing engineering organization dedicated to excellence through quality, creating value for customers, employees through innovation technology and operational expertise. We are a Certified Professionals driven company at our core with an overriding commitment to quality and our primary measures of success are customers’ satisfaction and shareholders value.</p>
                     <div class="d-flex align-items-center mb-4">
                         <div class="flex-shrink-0 bg-primary p-4">
                             <h1 class="display-2">14</h1>

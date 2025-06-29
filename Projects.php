@@ -5,42 +5,6 @@
         </div>
         <div class="owl-carousel project-carousel wow fadeIn" data-wow-delay="0.1s">
             <a class="project-item" href="">
-                <img class="img-fluid" src="img/project-1.jpg" alt="">
-                <div class="project-title">
-                    <h5 class="text-primary mb-0">Wireless Fire Alarm</h5>
-                </div>
-            </a>
-            <a class="project-item" href="">
-                <img class="img-fluid" src="img/project-2.jpg" alt="">
-                <div class="project-title">
-                    <h5 class="text-primary mb-0">Fire Alarm Amc</h5>
-                </div>
-            </a>
-            <!-- <a class="project-item" href="">
-                <img class="img-fluid" src="img/project-3.jpg" alt="">
-                <div class="project-title">
-                    <h5 class="text-primary mb-0">RF Bell Wireless Smoke Detector</h5>
-                </div>
-            </a> -->
-            <a class="project-item" href="">
-                <img class="img-fluid" src="img/project-4.jpg" alt="">
-                <div class="project-title">
-                    <h5 class="text-primary mb-0">Wireless Smoke Detector</h5>
-                </div>
-            </a>
-            <a class="project-item" href="">
-                <img class="img-fluid" src="img/project-5.jpg" alt="">
-                <div class="project-title">
-                    <h5 class="text-primary mb-0">Conventional Fire Alarm-</h5>
-                </div>
-            </a>
-            <a class="project-item" href="">
-                <img class="img-fluid" src="img/project-6.jpg" alt="">
-                <div class="project-title">
-                    <h5 class="text-primary mb-0">Fire Detection Alarm System-</h5>
-                </div>
-            </a>
-            <a class="project-item" href="">
                 <img class="img-fluid" src="img/project-7_resized.jpg" alt="">
                 <div class="project-title">
                     <h5 class="text-primary mb-0">CO2 Flooding System, Pipeline</h5>
@@ -76,5 +40,42 @@
                     <h5 class="text-primary mb-0">Electrical Fire Suppression System</h5>
                 </div>
             </a>
+            <a class="project-item" href="">
+                <img class="img-fluid" src="img/project-1.jpg" alt="">
+                <div class="project-title">
+                    <h5 class="text-primary mb-0">Wireless Fire Alarm</h5>
+                </div>
+            </a>
+            <a class="project-item" href="">
+                <img class="img-fluid" src="img/project-2.jpg" alt="">
+                <div class="project-title">
+                    <h5 class="text-primary mb-0">Fire Alarm Amc</h5>
+                </div>
+            </a>
+            <!-- <a class="project-item" href="">
+                <img class="img-fluid" src="img/project-3.jpg" alt="">
+                <div class="project-title">
+                    <h5 class="text-primary mb-0">RF Bell Wireless Smoke Detector</h5>
+                </div>
+            </a> -->
+            <a class="project-item" href="">
+                <img class="img-fluid" src="img/project-4.jpg" alt="">
+                <div class="project-title">
+                    <h5 class="text-primary mb-0">Wireless Smoke Detector</h5>
+                </div>
+            </a>
+            <a class="project-item" href="">
+                <img class="img-fluid" src="img/project-5.jpg" alt="">
+                <div class="project-title">
+                    <h5 class="text-primary mb-0">Conventional Fire Alarm-</h5>
+                </div>
+            </a>
+            <a class="project-item" href="">
+                <img class="img-fluid" src="img/project-6.jpg" alt="">
+                <div class="project-title">
+                    <h5 class="text-primary mb-0">Fire Detection Alarm System-</h5>
+                </div>
+            </a>
+            
         </div>
     </div>

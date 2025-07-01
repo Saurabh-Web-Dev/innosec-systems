@@ -18,11 +18,11 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h5 class="text-white mb-4">Quick Links</h5>
-                    <a class="btn btn-link" href="">About Us</a>
-                    <a class="btn btn-link" href="">Contact Us</a>
-                    <a class="btn btn-link" href="">Our Services</a>
-                    <a class="btn btn-link" href="">Terms & Condition</a>
-                    <a class="btn btn-link" href="">Support</a>
+                    <a class="btn btn-link" href="about.php">About Us</a>
+                    <a class="btn btn-link" href="contact.php">Contact Us</a>
+                    <a class="btn btn-link" href="service.php">Our Services</a>
+                    <a class="btn btn-link" href="contact.php">Terms & Condition</a>
+                    <a class="btn btn-link" href="contact.php">Support</a>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h5 class="text-white mb-4">Business Hours</h5>
@@ -45,12 +45,17 @@
         </div>
     </div>
     <!-- Footer End -->
-    <a class="btn btn-lg btn-primary btn-lg-square rounded-circle back-to-top" href="https://wa.me/+919711408978">
-        <i class="fab fa-whatsapp"></i>
+    <a href="https://api.whatsapp.com/send?phone=+919711408978&amp;text=hi" class="float bounce" target="_blank">
+        <i class="bi bi-whatsapp my-float" style="
+            position: fixed;
+            margin: 7px -15px 0px -14px;
+        "></i>
     </a>
-    <!-- <a href="https://wa.me/YOUR_PHONE_NUMBER" class="whatsapp-button">
-        <i class="fa fa-whatsapp" aria-hidden="true"></i>
-    </a> -->
+    <a href="tel: +919711408978" rel="nofollow" class="btn-call bounce">
+        <div class="btn-call__ico">
+            <i class="fas fa-phone-alt"></i>
+        </div>
+    </a>
    <!-- Video Modal Start -->
     <div class="modal modal-video fade" id="videoModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
         <div class="modal-dialog">
@@ -76,7 +81,7 @@
     <div class="container-fluid copyright bg-dark py-4">
         <div class="container text-center">
             <p class="mb-2">Copyright &copy; <a class="fw-semi-bold" href="#">INNOSEC SYSTEMS</a>, All Right Reserved.</p>
-            <p class="mb-0">Designed By <a class="fw-semi-bold" href="https://www.linkedin.com/in/saurabh-singh-b456bb1b7">Saurabh Singh</a></p>
+            <p class="mb-0">Designed By <a class="fw-semi-bold" target="_blank" href="https://www.linkedin.com/in/saurabh-singh-b456bb1b7">Saurabh Singh</a></p>
         </div>
     </div>
     <!-- Copyright End -->

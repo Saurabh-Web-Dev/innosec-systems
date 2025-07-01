@@ -74,7 +74,7 @@
    <?php include "Facts.php"?>
     <!-- Facts End -->
 
-
+    <?php include "ourclients.php"?>
     <!-- Features Start -->
   <?php include "Features.php"?>
     <!-- Features End -->
@@ -84,6 +84,7 @@
     <?php include "Projects.php"?>
     <!-- Project End -->
 
+    
     <!-- Team Start -->
      <?php include "Teams.php"?>
     <!-- Team End -->

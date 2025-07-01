@@ -80,7 +80,7 @@
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Products</a>
                     <div class="dropdown-menu bg-light m-0">
                         <a href="project.php" class="dropdown-item">Fire Alarm System</a>
-                        <a href="project.php" class="dropdown-item">Wireless Fire Alarm System</a>
+                        <a href="project.php" class="dropdown-item">Fire Safety</a>
                         <a href="project.php" class="dropdown-item">Wireless Fire Alarm</a>
                         <a href="project.php" class="dropdown-item">Fire Alarm AMC</a>
                         <a href="project.php" class="dropdown-item">Wireless Smoke Detector</a>
@@ -97,7 +97,7 @@
                         <a href="feature.php" class="dropdown-item">Features</a>
                         <a href="team.php"    class="dropdown-item">Our Team</a>
                         <a href="testimonial.php" class="dropdown-item">Testimonial</a>
-                        <a href="404.php" class="dropdown-item">404 Page</a>
+                        <!-- <a href="404.php" class="dropdown-item">404 Page</a> -->
                     </div>
                 </div>
                 <a href="contact.php" class="nav-item nav-link">Contact</a>
